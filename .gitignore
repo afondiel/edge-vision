@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (often large)
+*.h5
+*.pth
+*.onnx
+
+# Data files (often large or sensitive)
+*.csv
+*.json
+*.xml
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Configuration files that might contain sensitive information
+config.ini
+secrets.yaml
+
