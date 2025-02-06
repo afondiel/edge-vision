@@ -16,7 +16,7 @@ The goal is to bridge the gap between theoretical computer science and real-worl
 - Practical case studies and hands-on projects
 
 ## Table of Contents
-- [Edge AI Engineering: Core Concepts](#edge-ai-engineering--core-concepts)
+- [Edge AI Engineering](#edge-ai-engineering)
 - [Industry Blueprints](#industry-blueprints)
 - [Edge Optimization Lab](#edge-optimization-lab)
 - [Production Pipelines](#production-pipelines)
@@ -25,11 +25,10 @@ The goal is to bridge the gap between theoretical computer science and real-worl
 - [Contributing](#contributing)
 - [License](#license)
 
-## Edge AI Engineering: Core Concepts
+## Edge AI Engineering
 
 Fundamental concepts and practices for Edge AI:
-
-- Core: [edge AI concepts and resources](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai)
+- Core: [Edge AI concepts and resources](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai)
     - [Introduction to Edge AI](edge-ai-engineering/introduction-to-edge-ai.md)
     - [Edge AI Architectures](edge-ai-engineering/edge-ai-architectures.md)
     - [Model Optimization Techniques](edge-ai-engineering/model-optimization-techniques.md)
