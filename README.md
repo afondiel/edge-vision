@@ -44,8 +44,10 @@ Practical implementation guides for:
 - Autonomous Systems
 - Medical Imaging
 - Smart Retail
-- Manufacturing
 - Security & Surveillance
+- Agriculture
+- Manufacturing
+- Smart Cities
 
 ## Edge Optimization Lab
 
@@ -91,24 +93,26 @@ A focused resource for deploying optimized vision models on edge devices across 
 │   ├── smart-retail/
 │   │   ├── shelf-analytics-mmdetection.md
 │   │   └── checkout-automation.md
-│   └── manufacturing/
-│       ├── defect-detection-openvino.md             
-│       └── robotic-picking-ort.md
-├── security/
-│   ├── threat-detection/
-│   │   ├── perimeter-surveillance.md
-│   │   └── anomaly-detection.md
-│   ├── privacy-preserving-cv/
-│   │   ├── federated-learning-techniques.md
-│   │   └── differential-privacy.md
-│   ├── model-security/
-│   │   └── adversarial-robustness.md
-│   ├── edge-device-hardening/
-│   │   ├── secure-deployment.md
-│   │   └── secure-communication.md
-│   └── industry-compliance/
-│       ├── regulatory-standards.md
-│       └── ethical-ai-guidelines.md
+│   ├── security/
+│   │   ├── threat-detection/
+│   │   │   ├── perimeter-surveillance.md
+│   │   │   └── anomaly-detection.md
+│   │   ├── privacy-preserving-cv/
+│   │   │   ├── federated-learning-techniques.md
+│   │   │   └── differential-privacy.md
+│   │   ├── model-security/
+│   │   │   └── adversarial-robustness.md
+│   │   ├── edge-device-hardening/
+│   │   │   ├── secure-deployment.md
+│   │   │   └── secure-communication.md
+│   │   └── industry-compliance/
+│   │       ├── regulatory-standards.md
+│   │       └── ethical-ai-guidelines.md
+│   ├── agriculture/
+│   ├── manufacturing/
+│   │   ├── defect-detection-openvino.md             
+│   │   └── robotic-picking-ort.md
+│   └── Smart Cities/
 ├── edge-optimization-lab/                         
 │   ├── model-quantization/
 │   │   ├── post-training-int8.md
