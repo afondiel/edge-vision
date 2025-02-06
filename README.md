@@ -28,17 +28,15 @@ The goal is to bridge the gap between theoretical computer science and real-worl
 ## Edge AI Engineering
 
 Fundamental concepts and practices for Edge AI:
-- Core: [Edge AI concepts and resources](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai)
-    - [Introduction to Edge AI](edge-ai-engineering/introduction-to-edge-ai.md)
-    - [Edge AI Architectures](edge-ai-engineering/edge-ai-architectures.md)
-    - [Model Optimization Techniques](edge-ai-engineering/model-optimization-techniques.md)
-    - [Hardware Acceleration](edge-ai-engineering/hardware-acceleration.md)
-    - [Edge Deployment Strategies](edge-ai-engineering/edge-deployment-strategies.md)
-    - [Real-Time Processing](edge-ai-engineering/real-time-processing.md)
-    - [Privacy and Security](edge-ai-engineering/privacy-and-security.md)
-    - [Edge AI Frameworks](edge-ai-engineering/edge-ai-frameworks.md)
-    - [Benchmarking and Performance](edge-ai-engineering/benchmarking-and-performance.md)  
-- Blog: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
+- [Introduction to Edge AI](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/introduction-to-edge-ai.md)
+- [Edge AI Architectures](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/edge-ai-architectures.md)
+- [Model Optimization Techniques](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/model-optimization-techniques.md)
+- [Hardware Acceleration](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/hardware-acceleration.md)
+- [Edge Deployment Strategies](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/edge-deployment-strategies.md)
+- [Real-Time Processing](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/real-time-processing.md)
+- [Privacy and Security](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/privacy-and-security.md)
+- [Edge AI Frameworks](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/edge-ai-frameworks.md)
+- [Benchmarking and Performance](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/benchmarking-and-performance.md)  
   
 ## Industry Blueprints
 
@@ -96,6 +94,21 @@ A focused resource for deploying optimized vision models on edge devices across 
 │   └── manufacturing/
 │       ├── defect-detection-openvino.md             
 │       └── robotic-picking-ort.md
+├── security/
+│   ├── threat-detection/
+│   │   ├── perimeter-surveillance.md
+│   │   └── anomaly-detection.md
+│   ├── privacy-preserving-cv/
+│   │   ├── federated-learning-techniques.md
+│   │   └── differential-privacy.md
+│   ├── model-security/
+│   │   └── adversarial-robustness.md
+│   ├── edge-device-hardening/
+│   │   ├── secure-deployment.md
+│   │   └── secure-communication.md
+│   └── industry-compliance/
+│       ├── regulatory-standards.md
+│       └── ethical-ai-guidelines.md
 ├── edge-optimization-lab/                         
 │   ├── model-quantization/
 │   │   ├── post-training-int8.md
@@ -144,6 +157,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## References
 
 Deep Dives: 
+- Core: [Edge AI concepts and resources](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai)
+- Blog: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
 - [Computer Vision Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/computer-vision-notes)
 - [Computer Vision Course - HF (@johko)](https://github.com/johko/computer-vision-course)
 Books:
