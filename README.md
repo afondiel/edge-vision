@@ -86,33 +86,36 @@ A focused resource for deploying optimized vision models on edge devices across 
 ├── industry-blueprints/
 │   ├── autonomous-systems/
 │   │   ├── traffic-analysis-yolov8-tensorrt.md     
-│   │   └── drone-navigation-lite.md
-│   ├── medical-imaging/
+│   │   ├── drone-navigation-lite.md
+│   │   ├── pedestrian-tracking-edgetpu.md
+│   │   └── vehicle-defect-detection-openvino.md
+│   ├── healthcare-medical-imaging/
 │   │   ├── xray-classification-tflite.md            
-│   │   └── ultrasound-segmentation-ncnn.md
-│   ├── smart-retail/
+│   │   ├── ultrasound-segmentation-ncnn.md
+│   │   ├── mri-tumor-detection-onnx.md
+│   │   └── remote-patient-monitoring-jetson.md
+│   ├── retail-consumer-analytics/
 │   │   ├── shelf-analytics-mmdetection.md
-│   │   └── checkout-automation.md
-│   ├── security/
-│   │   ├── threat-detection/
-│   │   │   ├── perimeter-surveillance.md
-│   │   │   └── anomaly-detection.md
-│   │   ├── privacy-preserving-cv/
-│   │   │   ├── federated-learning-techniques.md
-│   │   │   └── differential-privacy.md
-│   │   ├── model-security/
-│   │   │   └── adversarial-robustness.md
-│   │   ├── edge-device-hardening/
-│   │   │   ├── secure-deployment.md
-│   │   │   └── secure-communication.md
-│   │   └── industry-compliance/
-│   │       ├── regulatory-standards.md
-│   │       └── ethical-ai-guidelines.md
-│   ├── agriculture/
-│   ├── manufacturing/
+│   │   ├── checkout-automation.md
+│   │   ├── customer-behavior-analysis-openvino.md
+│   │   └── inventory-management-edge-tflite.md
+│   ├── security-surveillance/
+│   │   ├── perimeter-surveillance-yolo.md
+│   │   ├── anomaly-detection-autoencoder.md
+│   │   ├── facial-recognition-privacy-preserving.md
+│   │   └── crowd-behavior-analysis-edge.md
+│   ├── agriculture-precision-farming/
+│   │   ├── crop-health-monitoring-multispectral.md
+│   │   ├── yield-prediction-edge-ml.md
+│   │   └── autonomous-harvesting-robotics.md
+│   ├── manufacturing-quality-control/
 │   │   ├── defect-detection-openvino.md             
-│   │   └── robotic-picking-ort.md
-│   └── Smart Cities/
+│   │   ├── robotic-picking-ort.md
+│   │   └── predictive-maintenance-edge-analytics.md
+│   └── smart-cities-urban-planning/
+│       ├── traffic-flow-optimization-edge.md
+│       ├── waste-management-vision-ai.md
+│       └── energy-grid-monitoring-federated.md
 ├── edge-optimization-lab/                         
 │   ├── model-quantization/
 │   │   ├── post-training-int8.md
@@ -120,25 +123,49 @@ A focused resource for deploying optimized vision models on edge devices across 
 │   ├── pruning-techniques/
 │   │   ├── magnitude-pruning.md
 │   │   └── lottery-ticket-hypothesis.md
-│   ├── federated-learning
+│   ├── federated-learning/
 │   │   ├── privacy-preserving-cv.md
 │   │   └── distributed-training.md
-│   └── compiler-targets/
-│       ├── tvm-tutorial.md
-│       └ onnx-runtime-guide.md
+│   ├── compiler-targets/
+│   │   ├── tvm-tutorial.md
+│   │   └── onnx-runtime-guide.md
+│   └── hardware-specific-optimization/
+│       ├── nvidia-jetson-optimization.md
+│       ├── intel-openvino-deployment.md
+│       ├── raspberry-pi-edge-ai.md
+│       └── microcontroller-tinyml.md
 ├── production-pipelines/                           
 │   ├── ci-cd-for-edge.md
 │   ├── monitoring/
 │   │   ├── drift-detection.md
 │   │   └── edge-metrics-dashboard.md
-│   └── ota-updates.md
+│   ├── ota-updates.md
+│   └── edge-security/
+│       ├── secure-boot-implementation.md
+│       ├── data-encryption-edge.md
+│       ├── threat-detection/
+│       │   ├── perimeter-surveillance.md
+│       │   └── anomaly-detection.md
+│       ├── privacy-preserving-cv/
+│       │   ├── federated-learning-techniques.md
+│       │   └── differential-privacy.md
+│       ├── model-security/
+│       │   └── adversarial-robustness.md
+│       ├── edge-device-hardening/
+│       │   ├── secure-deployment.md
+│       │   └── secure-communication.md
+│       └── industry-compliance/
+│           ├── regulatory-standards.md
+│           └── ethical-ai-guidelines.md
 ├── reference-architectures/
-│   ├ :industrial-camera-setups.md
-│   ├ edge-server-specs.md
-│   └ iot-connectivity.md
+│   ├── industrial-camera-setups.md
+│   ├── edge-server-specs.md
+│   ├── iot-connectivity.md
+│   └── edge-cloud-hybrid-models.md
 └── _integration/
     ├── cs-notebook-redirects.md                   
-    └── companion-resources.md
+    ├── companion-resources.md
+    └── industry-specific-regulations.md
 ```
 
 ## Getting Started
