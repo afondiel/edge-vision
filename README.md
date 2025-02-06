@@ -16,7 +16,7 @@ The goal is to bridge the gap between theoretical computer science and real-worl
 - Practical case studies and hands-on projects
 
 ## Table of Contents
-
+- [Edge AI Engineering: Core Concepts](#edge-ai-engineering--core-concepts)
 - [Industry Blueprints](#industry-blueprints)
 - [Edge Optimization Lab](#edge-optimization-lab)
 - [Production Pipelines](#production-pipelines)
@@ -25,6 +25,22 @@ The goal is to bridge the gap between theoretical computer science and real-worl
 - [Contributing](#contributing)
 - [License](#license)
 
+## Edge AI Engineering: Core Concepts
+
+Fundamental concepts and practices for Edge AI:
+
+- Core: [edge AI concepts and resources](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai)
+    - [Introduction to Edge AI](edge-ai-engineering/introduction-to-edge-ai.md)
+    - [Edge AI Architectures](edge-ai-engineering/edge-ai-architectures.md)
+    - [Model Optimization Techniques](edge-ai-engineering/model-optimization-techniques.md)
+    - [Hardware Acceleration](edge-ai-engineering/hardware-acceleration.md)
+    - [Edge Deployment Strategies](edge-ai-engineering/edge-deployment-strategies.md)
+    - [Real-Time Processing](edge-ai-engineering/real-time-processing.md)
+    - [Privacy and Security](edge-ai-engineering/privacy-and-security.md)
+    - [Edge AI Frameworks](edge-ai-engineering/edge-ai-frameworks.md)
+    - [Benchmarking and Performance](edge-ai-engineering/benchmarking-and-performance.md)  
+- Blog: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
+  
 ## Industry Blueprints
 
 Practical implementation guides for:
@@ -32,6 +48,7 @@ Practical implementation guides for:
 - Medical Imaging
 - Smart Retail
 - Manufacturing
+- Security & Surveillance
 
 ## Edge Optimization Lab
 
@@ -57,6 +74,16 @@ Hardware setups and specifications for various edge deployment scenarios.
 A focused resource for deploying optimized vision models on edge devices across key industries.
 
 ```
+├── edge-ai-engineering/
+│   ├── introduction-to-edge-ai.md
+│   ├── edge-ai-architectures.md
+│   ├── model-optimization-techniques.md
+│   ├── hardware-acceleration.md
+│   ├── edge-deployment-strategies.md
+│   ├── real-time-processing.md
+│   ├── privacy-and-security.md
+│   ├── edge-ai-frameworks.md
+│   └── benchmarking-and-performance.md    
 ├── industry-blueprints/
 │   ├── autonomous-systems/
 │   │   ├── traffic-analysis-yolov8-tensorrt.md     
