@@ -9,7 +9,7 @@ This repository serves as a comprehensive, practical guide for deploying optimiz
 The goal is to bridge the gap between theoretical computer science and real-world applications, with a focus on edge AI engineering.
 
 ### Key Features
-
+- Fundamental concepts and practices for Edge AI
 - Industry-specific blueprints for vision AI deployment
 - Edge optimization techniques for various hardware targets
 - Production-ready pipelines and best practices
@@ -161,6 +161,7 @@ Deep Dives:
 - Blog: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
 - [Computer Vision Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/computer-vision-notes)
 - [Computer Vision Course - HF (@johko)](https://github.com/johko/computer-vision-course)
+
 Books:
 - [Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems (Vijay Janapa Reddi)](https://mlsysbook.ai/)
 
