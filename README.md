@@ -38,6 +38,7 @@ Practical implementation guides for:
 Learn how to optimize models for edge deployment:
 - Model Quantization
 - Pruning Techniques
+- Federated Learning
 - Compiler Targets (TVM, ONNX Runtime)
 
 ## Production Pipelines
