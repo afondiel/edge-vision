@@ -30,15 +30,15 @@ The goal is to bridge the gap between theoretical computer science and real-worl
 ## Edge AI Engineering
 
 Fundamental concepts and practices for Edge AI:
-- [Introduction to Edge AI](https://github.com/afondiel/edge-ai-engineering/docs/edge-ai-engineering/introduction-to-edge-ai.md)
-- [Edge AI Architectures](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/docs/edge-ai-architectures.md)
-- [Model Optimization Techniques](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/docs/model-optimization-techniques.md)
-- [Hardware Acceleration](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/docs/hardware-acceleration.md)
-- [Edge Deployment Strategies](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/docs/edge-deployment-strategies.md)
-- [Real-Time Processing](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/docs/real-time-processing.md)
-- [Privacy and Security](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/docs/privacy-and-security.md)
-- [Edge AI Frameworks](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/docs/edge-ai-frameworks.md)
-- [Benchmarking and Performance](https://github.com/afondiel/edge-ai-engineering/edge-ai-engineering/docs/benchmarking-and-performance.md)  
+- [Introduction to Edge AI](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/introduction-to-edge-ai.md)
+- [Edge AI Architectures](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/edge-ai-architectures.md)
+- [Model Optimization Techniques](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/model-optimization-techniques.md)
+- [Hardware Acceleration](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/hardware-acceleration.md)
+- [Edge Deployment Strategies](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/edge-deployment-strategies.md)
+- [Real-Time Processing](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/real-time-processing.md)
+- [Privacy and Security](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/privacy-and-security.md)
+- [Edge AI Frameworks](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/edge-ai-frameworks.md)
+- [Benchmarking and Performance](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/benchmarking-and-performance.md)  
   
 ## Industry Blueprints
 
