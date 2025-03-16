@@ -1,6 +1,6 @@
-# Contributing to Edge Computer Vision: A Practical Guide
+# Contributing to Edge Vision: A Practical Guide
 
-We're excited that you're interested in contributing to this Practical Guide on Edge Computer Vision! This document outlines the process for contributing to this project.
+We're excited that you're interested in contributing to this Practical Guide on Edge Vision! This document outlines the process for contributing to this project.
 
 ## How to Contribute
 
@@ -36,4 +36,4 @@ We're excited that you're interested in contributing to this Practical Guide on 
 3. Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent.
 4. Your pull request will be reviewed by the maintainers. Be open to feedback and be prepared to make changes to your code.
 
-Thank you for contributing to this  Practical Guide on Edge Computer Vision!
+Thank you for contributing to this  Practical Guide on Edge Vision!
