@@ -2,77 +2,63 @@
 
 # Edge Vision :eye: | A Practical Guide
 
-## Overview
+A practical guide for real-world computer vision applications for resource-constrained devices with industry standards in mind.
 
-This repository serves as a comprehensive, practical guide for deploying optimized computer vision models on edge devices across key industries. 
+## New to Edge AI? 
 
-## Motivation
+- Start with the [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering): a practical guide covering core concepts of the entire [Edge AI MLOps](https://docs.edgeimpulse.com/docs/concepts/edge-ai-fundamentals/what-is-edge-mlops) stack with industry blueprints.
+- Then read this: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
+- Related work: [Edge Audio](https://github.com/afondiel/edge-audio)
 
-The goal is to bridge the gap between theoretical computer science and real-world applications, with a focus on edge AI engineering.
-
-### Key Features
-- Fundamental concepts and practices for Edge AI
-- Industry-specific blueprints for vision AI deployment
-- Edge optimization techniques for various hardware targets
-- Production-ready pipelines and best practices
-- Practical case studies and hands-on projects
 
 ## Table of Contents
-- [Edge AI Engineering](#edge-ai-engineering)
-- [Industry Blueprints](#industry-blueprints)
-- [Edge Optimization Lab](#edge-optimization-lab)
-- [Production Pipelines](#production-pipelines)
-- [Reference Architectures](#reference-architectures)
+- [Introduction](#introduction)
+- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
+- [Resources](#resources)
 
-## Edge AI Engineering
+## Introduction
 
-Fundamental concepts and practices for Edge AI:
-- [Introduction to Edge AI](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/introduction-to-edge-ai.md)
-- [Edge AI Architectures](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/edge-ai-architectures.md)
-- [Model Optimization Techniques](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/model-optimization-techniques.md)
-- [Hardware Acceleration](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/hardware-acceleration.md)
-- [Edge Deployment Strategies](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/edge-deployment-strategies.md)
-- [Real-Time Processing](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/real-time-processing.md)
-- [Privacy and Security](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/privacy-and-security.md)
-- [Edge AI Frameworks](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/edge-ai-frameworks.md)
-- [Benchmarking and Performance](https://github.com/afondiel/edge-ai-engineering/blob/main/docs/benchmarking-and-performance.md)  
-  
-## Industry Blueprints
+The goal of this guide is to provide resources for building, optimizing, and deploying Computer Vision applications at the edge, through hands-on examples including practical notebooks and real-world use cases across key industries.
 
-Practical implementation guides for:
+### Key Concepts
+
+**Industry Blueprints**
 - Autonomous Systems
-- Medical Imaging
-- Smart Retail
+- Healthcare & Medical Imaging*
+- Retail & Consumer Analytics
 - Security & Surveillance
-- Agriculture
-- Manufacturing
-- Smart Cities
+- Agriculture & Precision Farming
+- Manufacturing & Quality Control
+- Smart Cities & Urban Planning
 
-## Edge Optimization Lab
-
-Learn how to optimize models for edge deployment:
+**Edge Optimization Lab**: techniques and tools for maximizing performance and efficiency of vision models on edge hardware
 - Model Quantization
 - Pruning Techniques
 - Federated Learning
-- Compiler Targets (TVM, ONNX Runtime)
+- Compiler Targets
+- Hardware-Specific Optimization
 
-## Production Pipelines
-
-Guides for deploying and maintaining edge AI systems:
+**Production Pipelines**: guides and templates for robust, scalable edge vision AI operations
 - CI/CD for Edge
-- Monitoring and Drift Detection
+- Monitoring (Drift Detection, Edge Metrics Dashboard)
 - OTA Updates
+- Edge Security (Secure Boot, Data Encryption, Threat Detection, Privacy-Preserving vision, Adversarial Robustness, Device Hardening, Compliance)
 
-## Reference Architectures
+**Reference Architectures**: blueprints for edge vision hardware and system design
+- Microphone Array Setups
+- Edge Server Specs
+- IoT Connectivity
+- Edge-Cloud Hybrid Models
 
-Hardware setups and specifications for various edge deployment scenarios.
+**Integration**
+- Notebooks (hands-on deep dives)
+- Companion Resources
+- Industry-Specific Stardards
 
 ## Project Structure
-
-A focused resource for deploying optimized vision models on edge devices across key industries.
 
 ```
 ├── edge-ai-engineering/
@@ -172,11 +158,11 @@ A focused resource for deploying optimized vision models on edge devices across 
 ## Getting Started
 
 1. Clone this repository:
-   ```
-   git clone https://github.com/afondiel/edge-vision.git
-   ```
+```bash
+git clone https://github.com/afondiel/edge-vision.git
+```
 2. Navigate to the industry blueprint or topic you're interested in.
-3. Follow the step-by-step guides to implement and deploy edge AI vision solutions.
+3. Follow the step-by-step guides to implement and deploy edge vision solutions.
 
 ## Contributing
 
@@ -186,13 +172,10 @@ We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## References
+## Resources
 
-Deep Dives: 
-- Core: [Edge AI concepts and resources](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai)
-- Blog: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
 - [Computer Vision Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/computer-vision-notes)
-- [Computer Vision Course - HF (@johko)](https://github.com/johko/computer-vision-course)
+- [The Hugging Face Course on Computer Vision](https://github.com/johko/computer-vision-course)
 
 Books:
 - [Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems (Vijay Janapa Reddi)](https://mlsysbook.ai/)
