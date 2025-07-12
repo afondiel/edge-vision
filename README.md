@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Contribute-Welcome-green)](./CONTRIBUTING.md)
 
-# Edge Vision: A Practical Guide
+# Edge Vision :eye: | A Practical Guide
 
 ## Overview
 
@@ -133,7 +133,6 @@ A focused resource for deploying optimized vision models on edge devices across 
 │   │   └── onnx-runtime-guide.md
 │   └── hardware-specific-optimization/
 │       ├── nvidia-jetson-optimization.md
-│       ├── intel-openvino-deployment.md
 │       ├── raspberry-pi-edge-ai.md
 │       └── microcontroller-tinyml.md
 ├── production-pipelines/                           
@@ -174,7 +173,7 @@ A focused resource for deploying optimized vision models on edge devices across 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/computer-vision-practical-guide.git
+   git clone https://github.com/afondiel/edge-vision.git
    ```
 2. Navigate to the industry blueprint or topic you're interested in.
 3. Follow the step-by-step guides to implement and deploy edge AI vision solutions.
