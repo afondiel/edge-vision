@@ -2,7 +2,7 @@
 
 # Edge Vision :eye: | A Practical Guide
 
-A practical guide for real-world computer vision applications for resource-constrained devices with industry standards in mind.
+A practical guide for real-world and efficient computer vision applications for resource-constrained devices with industry standards in mind.
 
 ## New to Edge AI? 
 
