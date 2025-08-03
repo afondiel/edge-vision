@@ -4,7 +4,7 @@
 
 A practical guide for real-world and efficient computer vision applications for resource-constrained devices with industry standards in mind.
 
-## New to Edge AI? 
+## New to Edge AI?  
 
 - Start with the [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering): a practical guide covering core concepts of the entire [Edge AI MLOps](https://docs.edgeimpulse.com/docs/concepts/edge-ai-fundamentals/what-is-edge-mlops) stack with industry blueprints.
 - Then read this: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
