@@ -8,7 +8,7 @@ A practical guide for real-world and efficient computer vision applications for 
 
 - Start with the [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering): a practical guide covering core concepts of the entire [Edge AI MLOps](https://docs.edgeimpulse.com/docs/concepts/edge-ai-fundamentals/what-is-edge-mlops) stack with industry blueprints.
 - Then read this: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
-- Related work: [Edge Audio](https://github.com/afondiel/edge-audio)
+- Related work: [Edge Language](https://github.com/afondiel/edge-language) | [Edge Audio](https://github.com/afondiel/edge-audio)
 
 
 ## Table of Contents
@@ -157,12 +157,17 @@ The goal of this guide is to provide resources for building, optimizing, and dep
 
 ## Getting Started
 
+> [!IMPORTANT]  
+> This project uses a submodule `edge-ai-engineering` located in `lab/edge-ai-engineering`.
+> Please initialize submodules after cloning the repository: `git submodule update --init --recursive`
+
 1. Clone this repository:
 ```bash
 git clone https://github.com/afondiel/edge-vision.git
 ```
-2. Navigate to the industry blueprint or topic you're interested in.
-3. Follow the step-by-step guides to implement and deploy edge vision solutions.
+2. Explore the [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering) for foundational knowledge.
+3. Dive into [Industry Blueprints](./lab/industry-blueprints/) for hands-on, sector-specific language AI guides.
+4. Use the [Edge Optimization Lab](./lab/optimization/) and [Production Pipeline](./lab/production-pipelines/) for deployment and scaling.
 
 ## Contributing
 
